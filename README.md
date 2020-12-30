@@ -1,3 +1,16 @@
+<p style="font-size:40px;">Follow Me At</p><br>
+<h1>Portfolio</h1><br>
+<a href="https://praveenkumar.host20.uk">https://praveenkumar.host20.uk</a>
+<br><hr>
+<h1>LinkedIn</h1><br>
+<a href="https://linkedin.com/in/praveen-kumar-080247187">https://linkedin.com/in/praveen-kumar-080247187</a>
+<br><hr>
+<h1>Instagram</h1><br>
+<b>Developer Blog</b><br>
+<a href="https://www.instagram.com/devloveper.designer">https://www.instagram.com/devloveper.designer</a>
+<br><b>Travel Blog</b><br>
+<a href="https://www.instagram.com/thepraveenkrishna">https://www.instagram.com/thepraveenkrishna</a>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
